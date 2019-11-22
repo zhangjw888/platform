@@ -1,0 +1,5 @@
+# Project exclude paths
+/gabino-demo/eureka-server/target/
+*.iml
+/.idea/*
+
